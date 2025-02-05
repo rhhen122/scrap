@@ -5,7 +5,6 @@ from info import version #type: ignore
 from info import readme #type: ignore
 import os #type: ignore
 def many(): #type: ignore
-    os.system("clear") #type: ignore
     print("NAME: " + name) #type: ignore
     print("AUTHOR: " + author) #type: ignore
     print("MAINTAINER: " + maintainer) #type: ignore
