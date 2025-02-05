@@ -1,3 +1,4 @@
+https://iamcitrus.neocities.org/ <-- check out the blog
 scrap: When it works its awesome for developers and users.
 scrap: When it doesnt work simply remove the s!
 scrap: run it with "python3 .scrap/scrap.py"
