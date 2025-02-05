@@ -12,7 +12,6 @@ def many(): #type: ignore
     print("README: ") #type: ignore
     os.system(readme) #type: ignore
 def start(ver): #type: ignore
-    os.system("clear") #type: ignore
     print("scrap: " + ver) #type: ignore
     print("scrap: know") #type: ignore
     print("scrap: live") #type: ignore
