@@ -1,2 +1,2 @@
-Thanks to:
+# Thanks to:
 PyroManic13
