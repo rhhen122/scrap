@@ -8,4 +8,4 @@ maintainer = ("rhhen122") # This is the name of the maintainer
 version = ("1") # This is the version *
 # Below here are important files! dont touch!
 
-readme = ("cat scrap/readme.md")
+readme = ("cat scrap/readme.txt")
