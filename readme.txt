@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/rhhen122/scrap/refs/heads/main/.shh/scrap.png" width="100" height="100"></img>
 https://iamcitrus.neocities.org/ <-- check out the blog
 scrap: When it works its awesome for developers and users.
 scrap: When it doesnt work simply remove the s!
