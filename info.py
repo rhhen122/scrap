@@ -10,3 +10,4 @@ version = ("1") # This is the version *
 
 readme = ("cat scrap/readme.txt")
 license = ("cat scrap/LICENSE")
+help = ["/q = quit" + "/r = readme" + "/l = license" + "/h = help"]

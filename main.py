@@ -4,6 +4,7 @@ from info import maintainer #type: ignore
 from info import version #type: ignore
 from info import readme #type: ignore
 from info import license #type: ignore
+from info import help
 import os #type: ignore
 def many(): #type: ignore
     print("NAME: " + name) #type: ignore
@@ -23,6 +24,8 @@ def many(): #type: ignore
             print("")
         elif ask == ("q"):
             exit()
+        elif ask == ("h"):
+            print(help)
         else:
             print(ask + " <-- !!Error Unknown Command!!")
 def start(ver): #type: ignore
