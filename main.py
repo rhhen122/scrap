@@ -23,6 +23,8 @@ def many(): #type: ignore
             print("")
         elif ask == ("q"):
             exit()
+        else:
+            print(ask + "Error Unknown Command!!")
 def start(ver): #type: ignore
     print("scrap: " + ver) #type: ignore
     print("scrap: know") #type: ignore
