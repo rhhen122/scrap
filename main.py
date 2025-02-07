@@ -20,6 +20,9 @@ def many(): #type: ignore
         elif ask == ("l"):
             print("LICENSE: ")
             os.system(license)
+            print("")
+        elif ask == ("q"):
+            exit()
 def start(ver): #type: ignore
     print("scrap: " + ver) #type: ignore
     print("scrap: know") #type: ignore
