@@ -9,3 +9,4 @@ version = ("1") # This is the version *
 # Below here are important files! dont touch!
 
 readme = ("cat scrap/readme.txt")
+license = ("cat scrap/LICENSE")
