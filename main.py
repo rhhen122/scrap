@@ -30,6 +30,17 @@ def many(): #type: ignore
             os.system("clear")
         elif ask == ("m"):
             os.system("python3 scrap/scrap.py")
+        elif ask == (""):
+            print("!!Query Empty!!")
+        elif ask == (" "):
+            print("!!Query Empty!!")
+        elif ask == ("/"):
+            print("ii-slashshell-ii")
+        elif ask == ("!"):
+            ter = input("/")
+            os.system(ter)
+        elif ask == ("hello"):
+            print("Hello, World!")
         else:
             print(ask + " <-- !!Error Unknown Command!!")
 def start(ver): #type: ignore
