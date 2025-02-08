@@ -26,6 +26,10 @@ def many(): #type: ignore
             exit()
         elif ask == ("h"):
             print(help)
+        elif ask == ("c"):
+            os.system("clear")
+        elif ask == ("m"):
+            os.system("python3 scrap/scrap.py")
         else:
             print(ask + " <-- !!Error Unknown Command!!")
 def start(ver): #type: ignore
